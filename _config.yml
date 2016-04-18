@@ -1,0 +1,28 @@
+name: Wosho.co-test
+favicon: null
+layout_spectrum: 0.7452212567441165
+typography_spectrum: 0.33821858488954604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.15043348772451282
+  lightness: 0.1862503602169454
+  saturation: 0.10688339453190565
+  rhythmicContrast: 0.9634761591441929
+purpose: []
